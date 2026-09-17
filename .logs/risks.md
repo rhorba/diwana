@@ -23,3 +23,9 @@
 - Status: open
 - Impact: medium
 - Mitigation: the calculator is the funnel, not the product. Moat is the shipment workspace, quote history and preferential-origin logic.
+
+### [2026-09-17 10:05] [RISK] — Two risks moved from open to REALIZED
+- Specialist: Orchestrator
+- Summary: The ADII-data risk and the commoditisation/competition risk both materialised during Sprint 0, within three hours of being written down. The scraping risk is worse than forecast (active WAF, not just absent API) and the competition risk is far worse (two paid incumbents, one direct).
+- Status: realized
+- Impact: critical

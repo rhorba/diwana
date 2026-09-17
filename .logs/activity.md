@@ -13,3 +13,9 @@
 - Tasks: Sprint 0 data spike (GO/NO-GO), S1 foundation, S2 tariff pipeline, S3 duty engine, S4 classification, S5 workspace UI, S6 launch readiness
 - Estimated: ~33h excluding Sprint 0 (~3h)
 - Status: awaiting user approval
+
+### [2026-09-17 10:15] [MILESTONE] — Sprint 0 complete: NO-GO
+- Specialist: DevOps, Backend Dev, Creative Intelligence
+- Summary: Story 0.1 FAIL (WAF blocks document retrieval), 0.2 BLOCKED (no PDF obtainable to measure parse accuracy), 0.3 FAIL (two direct paid incumbents found), 0.4 not done (user-owned). Findings in docs/sprint-0-findings.md. No product code written. Gate held.
+- Status: complete
+- Impact: critical
